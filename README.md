@@ -8,7 +8,7 @@ Recommended repository name: `local-board-alert`
 
 ## Domain candidates
 
-First candidate: `localboardalert.jp`
+Confirmed domain: `localboardalert.jp`
 
 Other candidates:
 
