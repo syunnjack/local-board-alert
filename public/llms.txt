@@ -1,0 +1,7 @@
+# Local Board Alert
+
+地域掲示板の新着、売買、求人、イベント、防犯を通知し、店舗PR、掲載課金、広告へつなげる。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 掲載課金, 店舗PR, 広告, スポンサー, 有料通知
+Primary categories: 新着投稿, 売買, 求人, イベント, 防犯
